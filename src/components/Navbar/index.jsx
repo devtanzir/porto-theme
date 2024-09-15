@@ -76,7 +76,7 @@ const Navbar = (props) => {
                 marginLeft: { sm: "0", xs: "auto" },
               }}
             >
-              <img src="/src/assets/logo.png" alt="logo" />
+              <img src="http://localhost:5173/src/assets/logo.png" alt="logo" />
             </Typography>
 
             <Box

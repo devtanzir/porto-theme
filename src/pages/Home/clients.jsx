@@ -56,7 +56,7 @@ const Clients = () => {
               key={Math.random()}
             >
               <img
-                src={`/src/assets/brand${item}.png`}
+                src={`https://www.portotheme.com/wordpress/porto/wp-content/uploads/images/logo-${item}.png`}
                 className="inline-block"
                 alt=""
               />

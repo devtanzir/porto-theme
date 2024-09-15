@@ -10,7 +10,7 @@ const FooterBottom = () => {
           <div className=" flex gap-4">
             <img
               className="w-[49px]"
-              src="/src/assets/footer-logo.png"
+              src="https://www.portotheme.com/wordpress/porto/classic-original/wp-content/uploads/sites/2/2023/12/co1-logo-footer.png"
               alt="footer-logo"
             />
             <p className="text-[11px] text-[#555]">

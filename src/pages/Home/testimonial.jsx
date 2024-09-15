@@ -44,7 +44,7 @@ const Testimonial = () => {
       </Typography>
       <Stack direction={"row"} alignItems={"center"} gap={"15px"} mt={"12px"}>
         <img
-          src="/src/assets/john.jpeg"
+          src="https://www.portotheme.com/wordpress/porto/wp-content/uploads/images/client-1.jpg"
           alt="user"
           className="w-[25px] h-[25px] rounded-full"
         />
