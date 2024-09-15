@@ -24,7 +24,10 @@ const Slider = () => {
         className="h-[670px] mt-[125px] w-full"
       >
         <SwiperSlide
-          style={{ background: "url(/src/assets/slide1.jpeg)" }}
+          style={{
+            background:
+              "url(https://www.portotheme.com/wordpress/porto/classic-original/wp-content/uploads/sites/2/2022/07/wpb-co-intro-1.jpg)",
+          }}
           className="flex justify-center items-center flex-col"
         >
           <Box sx={{ display: "flex", gap: "10px" }}>
@@ -77,7 +80,8 @@ const Slider = () => {
                     display: "inline-block", // To show the image
                     width: "70px", // Set the width of the image
                     height: "10px", // Set the height of the image
-                    backgroundImage: "url(/src/assets/blue-line.png)", // Replace with your image URL
+                    backgroundImage:
+                      "url(https://www.portotheme.com/wordpress/porto/classic-original/wp-content/uploads/sites/2/2018/11/slide-blue-line.png)", // Replace with your image URL
                     backgroundSize: "cover", // Adjust to cover the entire area
                     backgroundPosition: "center",
                     position: "absolute", // Use this if you need precise positioning
@@ -111,7 +115,10 @@ const Slider = () => {
           </Typography>
         </SwiperSlide>
         <SwiperSlide
-          style={{ background: "url(/src/assets/slide2.jpeg)" }}
+          style={{
+            background:
+              "url(https://www.portotheme.com/wordpress/porto/classic-original/wp-content/uploads/sites/2/2022/07/wpb-co-intro-2.jpg)",
+          }}
           className="flex justify-center items-center flex-col"
         >
           <Box sx={{ display: "flex", gap: "10px" }}>
@@ -184,7 +191,10 @@ const Slider = () => {
           </Typography>
         </SwiperSlide>
         <SwiperSlide
-          style={{ background: "url(/src/assets/slide3.jpg)" }}
+          style={{
+            background:
+              "url(https://www.portotheme.com/wordpress/porto/classic-original/wp-content/uploads/sites/2/2022/07/wpb-co-intro-3.jpg)",
+          }}
           className="flex justify-center items-center flex-col"
         >
           <Box sx={{ display: "flex", gap: "10px" }}>
